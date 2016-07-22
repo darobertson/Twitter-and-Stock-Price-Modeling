@@ -17,16 +17,16 @@ library(gdata)
 # access tokens - there is a button for doing this.  If you run into any problems,
 # there is a plethora of sources that will take you through the steps.
 
-setwd("~/Desktop/honors_thesis")
+setwd("")
 
 # ck - consumer key
 # cs- consumer secret
 # at - access token
 # as - access secret
-ck <- 'EUDUdrGMySAhEnNASMp6VTxM9'
-cs <- 'HrkDH58rtJEVVZ9USRz71RcOX9wSjn8hqSzBENznzJ4i9naW3j'
-at <- '501428087-EKsatChvcc1SaWdfNK3Oke58spT42EZWaFsb18jy'
-as <- 'HJ9FpmElCmiypTkgVKMsL7K3u7HMPV2ZzSwQpyUZlFpuj'
+ck <- ''
+cs <- ''
+at <- ''
+as <- ''
 
 
 #this line will set up a connection with the Twitter API ...
